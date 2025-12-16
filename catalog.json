@@ -1,0 +1,14 @@
+{
+  "spacy_extra": [
+    "en_core_web_lg",
+    "en_core_web_sm"
+  ],
+  "bert_hf": [
+    "yiyanghkust/finbert-tone",
+    "ProsusAI/finbert"
+  ],
+  "active": {
+    "spacy": "en_core_web_lg",
+    "bert": "yiyanghkust/finbert-tone"
+  }
+}

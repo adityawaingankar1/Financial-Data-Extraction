@@ -31,9 +31,3 @@ Other Tools: Pandas, NumPy, Matplotlib
 💡 Key Outcome
 
 An intelligent NER-based finance document analyzer that automates the extraction and visualization of financial insights, helping analysts make faster, data-driven decisions.
-
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> edf9cb3 (first commit)
